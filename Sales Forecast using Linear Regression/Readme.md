@@ -4,7 +4,7 @@ Key Takeaways
 <h3>Linear Regression Model</h3>
  <p>Linear Regression Model is a statistical method used to understand the relationship between two or more variables. It's often used in predictive modeling and data analysis. 
  
-Variables:
+<strong>Variables</strong>:
 
 Independent Variable (X): This is the variable you think is influencing another variable. For example, in our dataset store, item, and date are the independent variables.
 Dependent Variable (Y): This is the variable that you think is being influenced by the independent variable. In our example, sales is the dependent variable.
