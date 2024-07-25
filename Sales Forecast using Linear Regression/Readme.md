@@ -1,4 +1,4 @@
-#Key Takeaways
+<h1>Key Takeaways</h1>
 
 <h2>Model Used</h2>
 <h3>Linear Regression Model</h3>
