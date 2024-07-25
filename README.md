@@ -1,3 +1,3 @@
 # Python-Data-Science
-Project 1
+<h2>Project 1</h2>
 Sales Forecast using Linear Regression
