@@ -53,7 +53,12 @@ Interpretation:
 Like MSE, it penalizes larger errors more than smaller ones, but it’s easier to interpret since it’s in the same units as the data.
 
 <h3>R-squared (R²)</h3>
-R² is a statistical measure that represents the proportion of the variance for a dependent variable that's explained by the independent variable(s) in the model. It ranges from 0 to 1.
+R², or R-squared, is a measure of how well your linear regression model fits the data. It tells you how much of the variation in the dependent variable (the thing you are trying to predict) can be explained by the independent variable(s) (the things you are using to make the prediction).
+
+​
+
+
+
 
 
 
