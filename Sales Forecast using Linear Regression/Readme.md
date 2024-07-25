@@ -9,11 +9,11 @@ Key Takeaways
 Independent Variable (X): This is the variable you think is influencing another variable. For example, in our dataset store, item, and date are the independent variables.
 Dependent Variable (Y): This is the variable that you think is being influenced by the independent variable. In our example, sales is the dependent variable.
 
-Relationship:
+<strong>Relationship</strong>:
 
 Linear regression looks for a linear relationship between the independent and dependent variables. This means it tries to fit a straight line through the data points.
 
-Equation of a Line:
+<strong>Equation of a Line</strong>:
 
 The simplest form of a linear regression model is a straight-line equation:
 
